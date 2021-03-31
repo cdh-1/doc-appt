@@ -19,4 +19,4 @@ COPY . /usr/src/app
 
 EXPOSE 8080
 
-CMD [ "npm", "run", "test:unit" ]
+CMD [ "npm", "run", "serve" ]
