@@ -111,7 +111,7 @@ export default {
           id: 2,
           name: 'Jane',
           age: 24,
-          createdAt: '2011-10-31',
+          createdAt: '2011-10-30',
           score: 0.03343,
           bool: true,
         },
