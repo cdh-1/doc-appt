@@ -119,7 +119,7 @@ export default {
           id: 3,
           name: 'Angel',
           age: 16,
-          createdAt: '2011-10-30',
+          createdAt: '2011-09-30',
           score: 0.03343,
           bool: true,
         },
